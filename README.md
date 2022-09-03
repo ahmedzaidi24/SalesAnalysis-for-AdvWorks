@@ -1,3 +1,4 @@
 
 # SalesAnalysis-for-AdvWorks
-![DashboardPic](https://drive.google.com/file/d/1sq4_uIKBLji71mSj_FYkMy6BKpzdIzr8/view?usp=sharing)
+![Dashboard](https://user-images.githubusercontent.com/111933904/188290835-3147db3a-6bb8-47e6-9671-2769be955ed6.png)
+
